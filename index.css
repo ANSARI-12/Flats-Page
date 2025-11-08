@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-home-container {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/flats-list-bg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.card-home-container {
+    background-color: #ffffff;
+    text-align: center;
+    padding: 30px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.home-heading {
+    font-size: 25px;
+    color: #f19116;
+}
+
+.home-paragraph {
+    font-size: 15px;
+    color: #7b8794;
+}
+
+.home-button {
+    color: #ffffff;
+    background-color: #f19116;
+    border-width: 0px;
+    border-radius: 5px;
+    height: 30px;
+    width: 80px;
+    font-size: 10px;
+}
+
+.bg-list-container {
+    background-color: #222222;
+    padding: 10px;
+    font-family: "Bree Serif";
+
+}
+
+.card-list-container {
+    background-color: #ffffff;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.list-heading {
+    color: #f19116;
+    font-size: 30px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
+
+.list-img {
+    width: 20vw;
+}
+
+.list-padding {
+    padding: 10px;
+}
+
+.list-heading1 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.list-paragraph {
+    font-size: 13px;
+    color: #6c6b70;
+}
+
+.list-button {
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.detail-img {
+    width: 95vw;
+}
+
+.detail-card {
+    background-color: black;
+    padding: 20px;
+    font-family: "Bree Serif";
+}
+
+.detail-heading {
+    font-size: 30px;
+    color: #f19116;
+}
+
+.detail-paragraph {
+    font-size: 15px;
+    color: #ffffff;
+    padding-bottom: 20px;
+}
+
+.bottom-detail {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.loc {
+    width: 10vw;
+}
+
+.detail-loc {
+    color: #ffffff;
+    margin: 10px;
+}
+
+.detail-button {
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+.detail-button2 {
+    margin: 20px;
+}
